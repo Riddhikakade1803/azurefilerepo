@@ -1,0 +1,42 @@
+[
+  {
+    "BaseURL": "https://raw.githubusercontent.com/",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/circuits.csv",
+    "FileName": "circuits.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/drivers.csv",
+    "FileName": "drivers.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/lap_times.csv",
+    "FileName": "lap_times.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/pit_stops.csv",
+    "FileName": "pit_stops.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/qualifying.csv",
+    "FileName": "qualifying.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/races.csv",
+    "FileName": "races.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/results.csv",
+    "FileName": "results.csv"
+  },
+  {
+    "BaseURL": "https://raw.githubusercontent.com",
+    "RelativeURL": "Riddhikakade1803/azurefilerepo/refs/heads/main/constructors.csv",
+    "FileName": "constructors.csv"
+  }
+]
