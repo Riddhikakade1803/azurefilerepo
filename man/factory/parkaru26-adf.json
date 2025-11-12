@@ -1,0 +1,9 @@
+{
+	"name": "parkaru26-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd2b92ea-857d-4722-801e-7a0142074ca6",
+		"tenantId": "5950e39e-81d1-45a1-8618-fe39a39b0448"
+	}
+}
