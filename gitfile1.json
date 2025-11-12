@@ -1,0 +1,55 @@
+[
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "Filename":"circuits.csv"
+    },
+    
+    {
+      "BaseURL":"https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/races.csv",
+      "Filename":"races.csv"
+    },
+
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/constructor.csv",
+      "Filename":"constructors.csv"
+    },
+    
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/drivers.csv",
+      "Filename":"drivers.csv"
+    },
+    
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/results.csv",
+      "Filename":"results.csv"
+    },
+
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/pit_stops.csv",
+      "Filename":"pit_stops.csv"
+    },
+    
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/lap_times.csv",
+      "Filename":"lap_times.csv"
+    },
+    
+    {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/lap_times.csv",
+      "Filename":"lap_times.csv"
+    },
+    
+     {
+      "BaseURL": "https://raw.githubusercontent.com/Riddhikakade1803/azurefilerepo/refs/heads/main/",
+      "RelativeURL":"Riddhikakade1803/azurefilerepo/refs/heads/main/qualifying.csv",
+      "Filename":"qualifying.csv"
+    },
+]
